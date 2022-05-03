@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/java/myDao/UserDao.java=UTF-8
+encoding//src/main/java/myPackage/JdbcUtils.java=UTF-8
+encoding//src/main/java/myPackage/LoginServlet.java=UTF-8
+encoding//src/main/java/myPackage/RegisterServlet.java=UTF-8
+encoding//src/main/java/myService/UserService.java=UTF-8
+encoding//src/main/java/myServlet/addItem.java=UTF-8
+encoding//src/main/java/myServlet/catalogServlet.java=UTF-8
+encoding//src/main/java/myServlet/doneServlet.java=UTF-8
+encoding//src/main/java/myServlet/finOrderServlet.java=UTF-8
+encoding//src/main/java/myServlet/loginServlet.java=UTF-8
+encoding//src/main/java/myServlet/orderServlet.java=UTF-8
+encoding//src/main/java/myServlet/registerServlet.java=UTF-8
+encoding//src/main/java/myServlet/undoneServlet.java=UTF-8
+encoding//src/main/java/myServlet/unfinOrderServlet.java=UTF-8
